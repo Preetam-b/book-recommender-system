@@ -1,0 +1,15 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Streamlit
+.streamlit/
+
+# Virtual env
+venv/
+
+# Pickle models (large files)
+backend/models/*.pkl
+
+# OS
+.DS_Store
